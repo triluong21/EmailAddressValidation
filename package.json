@@ -1,0 +1,18 @@
+{
+  "name": "EmailAddressValidation",
+  "version": "1.0.0",
+  "description": "Function validates email address",
+  "main": "index.js",
+  "author": "Tri Luong",
+  "license": "MIT",
+  "dependencies": {
+    "@types/chai": "^4.2.0",
+    "@types/mocha": "^5.2.7",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "ts-node": "^8.3.0",
+    "tsconfig-paths": "^3.8.0",
+    "tslint": "^5.18.0",
+    "typescript": "^3.5.3"
+  }
+}
